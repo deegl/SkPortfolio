@@ -4,4 +4,4 @@
 - If you need support add me on discord - @deegl
 
 # ⭐ Skripts
-- [GenRaid.sk](SkPortfolio/GenRaid.sk)
+- [dupe.sk](dupe.sk)
