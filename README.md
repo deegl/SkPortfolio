@@ -4,4 +4,4 @@
 - If you need support add me on discord - @deegl
 
 # ⭐ Skripts
-- [dupe.sk](dupe.sk)
+- 
